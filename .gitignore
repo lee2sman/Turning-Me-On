@@ -1,0 +1,15 @@
+# Ignore all audio files that aren't wav
+
+*.aif
+*.mp3
+*.flac
+
+# Ignore images
+
+
+# Ignore images that aren't png
+
+*.jpg
+*.jpeg
+*.tif
+*.gif
