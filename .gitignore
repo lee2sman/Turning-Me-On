@@ -4,9 +4,6 @@
 *.mp3
 *.flac
 
-# Ignore images
-
-
 # Ignore images that aren't png
 
 *.jpg
